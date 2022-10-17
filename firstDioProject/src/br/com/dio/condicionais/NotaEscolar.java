@@ -2,7 +2,7 @@ package br.com.dio.condicionais;
 
 public class NotaEscolar {
     public static void main(String[] args) {
-        int nota = 5;
+        int nota = 9;
 
         if (nota >= 7) {
             System.out.println("Aprovado");
