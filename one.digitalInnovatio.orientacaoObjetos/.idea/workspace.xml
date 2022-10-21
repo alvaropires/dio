@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5c955f0-d4ef-40a3-afea-8aa15800a9be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/desafioDeCodigo/DesafioBasico01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/map/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/map/DesafioLancamentoDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/map/ExemploMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/map/ExemploOrdenacaoMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/map/ExercicioProposto3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/map/ExercioProposto01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/map/Livros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/map/RefatoracaoOrdenacaoMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/map/exercicio01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/set/ExercicioProposto01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/set/ExercicioProposto02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/set/LinguagemFavorita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstDioProject/src/br/com/dio/collection/streamAPI/ExerciciosStreamAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstDioProject/out/production/firstDioProject/br/com/dio/condicionais/NotaEscolar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../firstDioProject/out/production/firstDioProject/br/com/dio/condicionais/NotaEscolar.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GMcdSbNh0r4ln7k4EN3VFUcEKK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5c955f0-d4ef-40a3-afea-8aa15800a9be" name="Changes" comment="" />
+      <created>1666201982495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666201982495</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

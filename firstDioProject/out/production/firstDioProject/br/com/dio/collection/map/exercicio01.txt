@@ -1,0 +1,37 @@
+/*Dada a população estimada de alguns estados do NE brasileiro, faça:
+
+Estado = PE - População = 9.616.621
+
+Estado = AL - População = 3.351.543
+
+Estado = CE - População = 9.187.103
+
+Estado = RN - População = 3.534.265
+
+[x]Crie um dicionário e relacione os estados e suas populações;
+
+[x]Substitua a população do estado do RN por 3.534.165;
+
+[x]Confira se o estado PB está no dicionário, caso não adicione: PB -
+4.039.277;
+
+[x]Exiba a população PE;
+
+[x]Exiba todos os estados e suas populações na ordem que foi
+        informado;
+
+[x]        Exiba os estados e suas populações em ordem alfabética;
+
+[x]        Exiba o estado com o menor população e sua quantidade;
+
+[x]      Exiba o estado com a maior população e sua quantidade;
+
+[x]    Exiba a soma da população desses estados;
+
+[x]  Exiba a média da população deste dicionário de estados;
+
+[x]Remova os estados com a população menor que 4.000.000;
+
+[x]Apague o dicionário de estados;
+
+[x]Confira se o dicionário está vazio.*/
