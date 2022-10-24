@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="one.digitalInnovation.junit.PessoaTeste" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-21T18:14:05" hostname="alvaro" time="0.028">
+<testsuite name="one.digitalInnovation.junit.PessoaTeste" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-22T18:39:25" hostname="alvaro-notebook" time="0.023">
   <properties/>
-  <testcase name="validarCalculoIdade()" classname="one.digitalInnovation.junit.PessoaTeste" time="0.028"/>
+  <testcase name="validarCalculoIdade()" classname="one.digitalInnovation.junit.PessoaTeste" time="0.023"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
